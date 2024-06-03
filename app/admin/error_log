@@ -1,0 +1,2 @@
+[14-Nov-2023 09:02:27 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/smknuke1/prakerin.smknukesesi.sch.id/app/admin/detail_pemagang.php on line 140
+[15-Nov-2023 14:39:39 Asia/Jakarta] PHP Notice:  Undefined index: role_id in /home/smknuke1/prakerin.smknukesesi.sch.id/conf/cekAdmin.php on line 2

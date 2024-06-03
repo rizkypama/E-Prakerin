@@ -1,0 +1,21 @@
+[14-Nov-2023 09:16:24 Asia/Jakarta] PHP Notice:  Undefined index: id_pembimbing in /home/smknuke1/prakerin.smknukesesi.sch.id/app/add/tambah_tugas.php on line 6
+[14-Nov-2023 09:20:26 Asia/Jakarta] PHP Notice:  Undefined index: masuk in /home/smknuke1/prakerin.smknukesesi.sch.id/app/add/jam_masuk.php on line 12
+[14-Nov-2023 09:20:26 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/smknuke1/prakerin.smknukesesi.sch.id/app/add/jam_masuk.php on line 12
+[14-Nov-2023 09:20:26 Asia/Jakarta] PHP Notice:  Undefined index: masuk in /home/smknuke1/prakerin.smknukesesi.sch.id/app/add/jam_masuk.php on line 16
+[14-Nov-2023 09:20:26 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/smknuke1/prakerin.smknukesesi.sch.id/app/add/jam_masuk.php on line 16
+[14-Nov-2023 09:22:00 Asia/Jakarta] PHP Notice:  Undefined index: pulang in /home/smknuke1/prakerin.smknukesesi.sch.id/app/add/jam_pulang.php on line 7
+[14-Nov-2023 09:22:00 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/smknuke1/prakerin.smknukesesi.sch.id/app/add/jam_pulang.php on line 7
+[14-Nov-2023 09:22:00 Asia/Jakarta] PHP Notice:  Undefined index: pulang in /home/smknuke1/prakerin.smknukesesi.sch.id/app/add/jam_pulang.php on line 11
+[14-Nov-2023 09:22:00 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/smknuke1/prakerin.smknukesesi.sch.id/app/add/jam_pulang.php on line 11
+[14-Nov-2023 11:53:46 Asia/Jakarta] PHP Notice:  Undefined index: id_pemagang in /home/smknuke1/prakerin.smknukesesi.sch.id/app/add/tambah_tugas.php on line 5
+[14-Nov-2023 20:33:06 Asia/Jakarta] PHP Notice:  session_start(): A session had already been started - ignoring in /home/smknuke1/prakerin.smknukesesi.sch.id/conf/autentikasi.php on line 2
+[14-Nov-2023 20:33:06 Asia/Jakarta] PHP Notice:  Undefined index: email in /home/smknuke1/prakerin.smknukesesi.sch.id/conf/autentikasi.php on line 5
+[14-Nov-2023 20:33:06 Asia/Jakarta] PHP Notice:  Undefined index: password in /home/smknuke1/prakerin.smknukesesi.sch.id/conf/autentikasi.php on line 6
+[16-Nov-2023 10:05:34 Asia/Jakarta] PHP Notice:  Undefined index: masuk in /home/smknuke1/prakerin.smknukesesi.sch.id/app/add/jam_masuk.php on line 12
+[16-Nov-2023 10:05:34 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/smknuke1/prakerin.smknukesesi.sch.id/app/add/jam_masuk.php on line 12
+[16-Nov-2023 10:05:34 Asia/Jakarta] PHP Notice:  Undefined index: masuk in /home/smknuke1/prakerin.smknukesesi.sch.id/app/add/jam_masuk.php on line 16
+[16-Nov-2023 10:05:34 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/smknuke1/prakerin.smknukesesi.sch.id/app/add/jam_masuk.php on line 16
+[16-Nov-2023 10:06:32 Asia/Jakarta] PHP Notice:  Undefined index: pulang in /home/smknuke1/prakerin.smknukesesi.sch.id/app/add/jam_pulang.php on line 7
+[16-Nov-2023 10:06:32 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/smknuke1/prakerin.smknukesesi.sch.id/app/add/jam_pulang.php on line 7
+[16-Nov-2023 10:06:32 Asia/Jakarta] PHP Notice:  Undefined index: pulang in /home/smknuke1/prakerin.smknukesesi.sch.id/app/add/jam_pulang.php on line 11
+[16-Nov-2023 10:06:32 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/smknuke1/prakerin.smknukesesi.sch.id/app/add/jam_pulang.php on line 11

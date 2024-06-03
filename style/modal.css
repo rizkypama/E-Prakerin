@@ -1,0 +1,138 @@
+.modal,
+.reminder-modal,
+.profile-modal,
+.edit-modal,
+.edit-pembimbing-modal,
+.edit-divisi-modal {
+  display: none;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.5);
+  z-index: 9999;
+  transition: opacity 0.3s, visibility 0.3s;
+}
+
+.modal-content {
+  background-color: var(--color-white);
+  padding: 1.5rem;
+  border-radius: 8px;
+  box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  max-width: 80%;
+  width: 400px;
+  max-height: 80%;
+  overflow-y: auto;
+  transition: transform 0.3s, opacity 0.3s;
+}
+
+.modal-title {
+  font-size: 1.5rem;
+  margin-bottom: 1rem;
+  text-align: center;
+  color: var(--color-dark);
+}
+
+.close-button,
+.close-reminder-button,
+.close-profile-button,
+.close-pembimbing-button,
+.close-divisi-button,
+.close-penilaian-button {
+  position: absolute;
+  top: 10px;
+  right: 15px;
+  font-size: 24px;
+  cursor: pointer;
+  color: var(--color-dark);
+}
+
+form {
+  display: grid;
+  gap: 15px;
+  margin-top: 20px;
+}
+
+label {
+  font-weight: bold;
+}
+
+input[type="text"],
+input[type="email"],
+input[type="password"],
+input[type="time"],
+input[type="date"],
+input[type="number"],
+input[type="datetime-local"],
+select,
+textarea {
+  width: 100%;
+  padding: 10px;
+  border: 1px solid var(--color-info-dark);
+  border-radius: 5px;
+}
+
+textarea {
+  resize: vertical;
+}
+
+button[type="submit"] {
+  background-color: var(--color-dark);
+  color: var(--color-white);
+  border: none;
+  border-radius: 5px;
+  padding: 10px 20px;
+  cursor: pointer;
+  font-family: "Poppins", sans-serif;
+}
+
+.button-container {
+  display: flex;
+  justify-content: space-between;
+  gap: 10px;
+  margin-top: 20px;
+}
+
+.penilaian label {
+  display: inline-block;
+  margin-bottom: 0.5rem;
+}
+
+.select2-container {
+  z-index: 9999;
+}
+
+.select2-results__option--selectable {
+  color: var(--color-dark);
+}
+
+.select2-container--open .select2-dropdown--below {
+  background-color: var(--color-white);
+}
+
+.profile-pic {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.profile-pic h3 {
+  margin: 10px;
+}
+
+.upload-profile-pic {
+  display: flex;
+  justify-content: center;
+  margin-top: 0;
+  align-items: center;
+  flex-direction: column;
+}
+
+.upload-profile-pic span {
+  margin-top: 0.5rem;
+}

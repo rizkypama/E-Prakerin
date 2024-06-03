@@ -1,0 +1,29 @@
+[14-Nov-2023 09:13:39 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/smknuke1/prakerin.smknukesesi.sch.id/app/pemagang/index.php on line 237
+[14-Nov-2023 09:16:57 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/smknuke1/prakerin.smknukesesi.sch.id/app/pemagang/index.php on line 237
+[14-Nov-2023 09:17:06 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/smknuke1/prakerin.smknukesesi.sch.id/app/pemagang/tugas.php on line 133
+[14-Nov-2023 09:19:44 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/smknuke1/prakerin.smknukesesi.sch.id/app/pemagang/tugas.php on line 133
+[14-Nov-2023 09:19:51 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/smknuke1/prakerin.smknukesesi.sch.id/app/pemagang/tugas.php on line 133
+[14-Nov-2023 09:20:00 Asia/Jakarta] PHP Notice:  Undefined variable: idPenilaian in /home/smknuke1/prakerin.smknukesesi.sch.id/app/pemagang/penilaian.php on line 181
+[14-Nov-2023 09:20:22 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/smknuke1/prakerin.smknukesesi.sch.id/app/pemagang/index.php on line 237
+[14-Nov-2023 09:20:26 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/smknuke1/prakerin.smknukesesi.sch.id/app/pemagang/index.php on line 237
+[14-Nov-2023 09:20:40 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/smknuke1/prakerin.smknukesesi.sch.id/app/pemagang/index.php on line 237
+[14-Nov-2023 09:21:56 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/smknuke1/prakerin.smknukesesi.sch.id/app/pemagang/index.php on line 237
+[14-Nov-2023 09:23:57 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/smknuke1/prakerin.smknukesesi.sch.id/app/pemagang/index.php on line 237
+[14-Nov-2023 09:24:49 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/smknuke1/prakerin.smknukesesi.sch.id/app/pemagang/index.php on line 237
+[14-Nov-2023 10:23:08 Asia/Jakarta] PHP Notice:  Undefined index: role_id in /home/smknuke1/prakerin.smknukesesi.sch.id/conf/cekPemagang.php on line 2
+[14-Nov-2023 10:23:08 Asia/Jakarta] PHP Notice:  Undefined index: profile_picture in /home/smknuke1/prakerin.smknukesesi.sch.id/app/pemagang/right-section.php on line 31
+[14-Nov-2023 10:23:08 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/smknuke1/prakerin.smknukesesi.sch.id/app/pemagang/index.php on line 237
+[14-Nov-2023 11:52:53 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/smknuke1/prakerin.smknukesesi.sch.id/app/pemagang/index.php on line 237
+[14-Nov-2023 11:53:08 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/smknuke1/prakerin.smknukesesi.sch.id/app/pemagang/tugas.php on line 133
+[14-Nov-2023 11:53:12 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/smknuke1/prakerin.smknukesesi.sch.id/app/pemagang/tugas.php on line 133
+[14-Nov-2023 11:53:46 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/smknuke1/prakerin.smknukesesi.sch.id/app/pemagang/tugas.php on line 133
+[14-Nov-2023 11:53:54 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/smknuke1/prakerin.smknukesesi.sch.id/app/pemagang/tugas.php on line 133
+[14-Nov-2023 11:53:57 Asia/Jakarta] PHP Notice:  Undefined variable: idPenilaian in /home/smknuke1/prakerin.smknukesesi.sch.id/app/pemagang/penilaian.php on line 181
+[14-Nov-2023 16:21:43 Asia/Jakarta] PHP Notice:  Undefined index: role_id in /home/smknuke1/prakerin.smknukesesi.sch.id/conf/cekPemagang.php on line 2
+[14-Nov-2023 20:32:47 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/smknuke1/prakerin.smknukesesi.sch.id/app/pemagang/index.php on line 237
+[14-Nov-2023 20:33:07 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/smknuke1/prakerin.smknukesesi.sch.id/app/pemagang/index.php on line 237
+[14-Nov-2023 20:34:32 Asia/Jakarta] PHP Notice:  Undefined variable: idPenilaian in /home/smknuke1/prakerin.smknukesesi.sch.id/app/pemagang/penilaian.php on line 181
+[16-Nov-2023 10:00:40 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/smknuke1/prakerin.smknukesesi.sch.id/app/pemagang/index.php on line 237
+[16-Nov-2023 10:04:39 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/smknuke1/prakerin.smknukesesi.sch.id/app/pemagang/index.php on line 237
+[16-Nov-2023 10:05:34 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/smknuke1/prakerin.smknukesesi.sch.id/app/pemagang/index.php on line 237
+[16-Nov-2023 10:06:26 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/smknuke1/prakerin.smknukesesi.sch.id/app/pemagang/index.php on line 237
